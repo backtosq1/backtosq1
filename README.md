@@ -1,13 +1,11 @@
-👋 Sup, I'm H.T.
-
-Hi，我是ht
+👋 Sup, I'm sudoer-Huatao, aka "backtosq1".
 
 “上善若水。水善利万物而不争，处众人之所恶“
 
 ## Hobbies
 
 - Python programming
-- Calculus and math
+- Advanced math
 - Astrophysics
 - Badminton
 
