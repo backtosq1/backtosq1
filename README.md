@@ -1,13 +1,6 @@
-👋 Sup, I'm sudoer-Huatao, aka "backtosq1".
+👋 I'm Huatao, aka "backtosq1".
 
-“上善若水。水善利万物而不争，处众人之所恶“
-
-## Hobbies
-
-- Python programming
-- Advanced math
-- Astrophysics
-- Badminton
+I mainly do Python programming and macOS app development. I know some cpp as well.
 
 ## Contact me
 
@@ -17,8 +10,13 @@ All emails here: huatao.xue@outlook.com
 
 知乎账号：h.t.
 
-Gmail (won't check often): huatao.xue@gmail.com
+Gmail (not very responses): huatao.xue@gmail.com
 
+## Check out my projects
+
+- FocusTime, a macOS app to help you track app usage time and set focus notifications (in dev.)
+- TriviaTime (collab w/ @FanboFB), a macOS app that sends trivias as notifications
+- and some other simple Python projects: Desmos art generator, Pygame gui timer, and more.
 
 <!---
 sudoer-Huatao/sudoer-Huatao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
