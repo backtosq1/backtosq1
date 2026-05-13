@@ -1,6 +1,6 @@
 👋 I'm Huatao Xue, aka backtosq1.
 
-I'm a teenage programmer. I mainly do Python programming and macOS app development, and I know some cpp as well.
+I'm a teenager that does the occasional passion programming project. I mainly do Python programming and macOS app development, and I know some cpp as well.
 
 ## Contact me
 
@@ -11,8 +11,8 @@ All emails here: huatao.xue@outlook.com
 
 ## Check out my projects
 
-- Tempo, a macOS Pomodoro Timer designed for students (v2.0)
-- FocusTime, a macOS app to help you track app usage time and set focus notifications (in dev.)
+- Tempo, a macOS Pomodoro Timer designed for students (released on the App Store, v2.0)
+- Swiftly, a macOS app to help you take notes *really fast* (WIP)
 - and some other simple Python projects: Desmos art generator, Pygame gui timer, and more.
 
 <!---
