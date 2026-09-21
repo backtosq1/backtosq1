@@ -1,6 +1,6 @@
-👋 I'm Huatao Xue, aka backtosq1.
+👋 I'm Huatao Xue, aka backtosq1, and I mainly do Python programming and macOS app development, and I know some cpp as well.
 
-I'm a teenager that does the occasional passion programming project. I mainly do Python programming and macOS app development, and I know some cpp as well.
+Programming is not my main thing, but I do enjoy the occasional passion programming project!
 
 ## Contact me
 
