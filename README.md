@@ -28,4 +28,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+## **Notices**
+
+**2026/11/18** After my account getting **suspended by GitHub for no reason** for 1 month, this account has successfully been unsuspended. Apologies to any inconvenience (It really wasn't my fault tho :\
+This is also why some parts of my profile look bugged.
+
+
 > That's all.
